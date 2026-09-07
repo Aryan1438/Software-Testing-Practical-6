@@ -5,4 +5,4 @@ def test_addition():
 
 if __name__ == "__main__":
     test_addition()
-    print("Test passed successfully!")
+    print("Test passed successfully - Version 2!")
